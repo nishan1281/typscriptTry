@@ -1,0 +1,2 @@
+# typscriptTry
+practice during learning
